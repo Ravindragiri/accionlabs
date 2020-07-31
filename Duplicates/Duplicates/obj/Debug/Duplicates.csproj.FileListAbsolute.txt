@@ -1,0 +1,7 @@
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\bin\Debug\Duplicates.exe.config
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\bin\Debug\Duplicates.exe
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\bin\Debug\Duplicates.pdb
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\obj\Debug\Duplicates.csprojAssemblyReference.cache
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\obj\Debug\Duplicates.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\obj\Debug\Duplicates.exe
+C:\Personal\Assessment\New folder\Duplicates\Duplicates\obj\Debug\Duplicates.pdb

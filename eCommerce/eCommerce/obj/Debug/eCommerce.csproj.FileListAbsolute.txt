@@ -1,0 +1,7 @@
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\obj\Debug\eCommerce.csprojAssemblyReference.cache
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\obj\Debug\eCommerce.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\bin\Debug\eCommerce.exe.config
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\bin\Debug\eCommerce.exe
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\bin\Debug\eCommerce.pdb
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\obj\Debug\eCommerce.exe
+C:\Personal\Assessment\New folder\eCommerce\eCommerce\obj\Debug\eCommerce.pdb
